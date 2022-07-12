@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'bd_matriculas',
+	'hostname' => 'us-cdbr-east-06.cleardb.net',
+	'username' => 'bb006d389fdcae',
+	'password' => '7f3861f2',
+	'database' => 'heroku_95c47babe13bf03',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
