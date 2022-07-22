@@ -102,11 +102,7 @@
 							<span><i class="fa fa-circle-o"></i>Administrador del Sistema</span>
 						</a>
 					</li>
-					<li class="<?php if ($page_name == '#') echo 'nav-active'; ?> ">
-						<a href="<?php echo base_url(); ?>index.php?admin/#">
-							<span><i class="fa fa-circle-o"></i> Usuario</span>
-						</a>
-					</li>
+
 				</ul>
 			</li>
 
